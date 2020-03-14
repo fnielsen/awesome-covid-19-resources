@@ -1,4 +1,4 @@
-# non-awesome-covid-19
+# Awesome COVID-19 resources
 A curated list of awesome resources for COVID-19
 
 ## Datasets 
