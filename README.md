@@ -5,4 +5,4 @@ A curated list of awesome resources for COVID-19.
 - [COVID-19 DATABASE: COVID-19: CASISTICA RADIOLOGICA ITALIANA](https://www.sirm.org/category/senza-categoria/covid-19/) - Italian database with CT images of lungs.
 
 ## Papers 
-- [Abnormal respiratory patterns classifier may contribute to large-scale screening of people infected with COVID-19 in an accurate and unobtrusive manner](https://arxiv.org/abs/2002.05534) - Description of recurrent neural network predicting 6 respiratory patterns from depth camera data.
+- [Abnormal respiratory patterns classifier may contribute to large-scale screening of people infected with COVID-19 in an accurate and unobtrusive manner](https://arxiv.org/abs/2002.05534) - Description of recurrent neural network predicting 6 respiratory patterns from depth camera data ([Scholia](https://tools.wmflabs.org/scholia/Q87745200))
