@@ -3,7 +3,8 @@ A curated list of awesome data science, analytics and computer programming resou
 
 ## Datasets 
 - [COVID-19 DATABASE: COVID-19: CASISTICA RADIOLOGICA ITALIANA](https://www.sirm.org/category/senza-categoria/covid-19/) - Italian database with CT images of lungs.
-- [Coronavirus-Dataset: Dataset of COVID-19 in South Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset) - South Korean dataset detailing virus spread routes .
+- [Coronavirus-Dataset: Dataset of COVID-19 in South Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset) - South Korean dataset detailing virus spread routes.
+- [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research) - dataset with scholarly articles about COVID-19.
 
 ### Bioinformatics
 - [SARS-CoV-2 and COVID-19 Pathway (Homo sapiens)](https://www.wikipathways.org/index.php/Pathway:WP4846) - WikiPathways model
