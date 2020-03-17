@@ -24,10 +24,13 @@ A curated list of awesome data science, analytics and computer programming resou
 - [Observable Topic: "Coronavirus"](https://observablehq.com/collection/@observablehq/coronavirus) - A selection of interactive Observable notebooks related to COVID-19 and SARS-CoV-2
 
 ## Papers 
-- [Abnormal respiratory patterns classifier may contribute to large-scale screening of people infected with COVID-19 in an accurate and unobtrusive manner](https://arxiv.org/abs/2002.05534) - Description of recurrent neural network predicting 6 respiratory patterns from depth camera data ([Scholia](https://tools.wmflabs.org/scholia/Q87745200))
+### Epidemiological modeling
 - [Effective containment explains sub-exponential growth in confirmed cases of recent COVID-19 outbreak in Mainland China](https://arxiv.org/abs/2002.07572) - Model that captures both, quarantine of symptomatic infected individuals as well as population wide isolation in response to mitigation policies or behavioral changes.
 
 ### Lung-CT deep learning
 - [A deep learning algorithm using CT images to screen for Corona Virus Disease (COVID-19)](https://www.medrxiv.org/content/10.1101/2020.02.14.20023028v3)
 - [Deep learning-based model for detecting 2019 novel coronavirus pneumonia on high-resolution computed tomography: a prospective study in 27 patients](https://www.medrxiv.org/content/10.1101/2020.02.25.20021568v2)
 - [Deep Learning-Based Quantitative Computed Tomography Model in Predicting the Severity of COVID-19: A Retrospective Study in 196 Patients](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3546089)
+
+### Other 
+- [Abnormal respiratory patterns classifier may contribute to large-scale screening of people infected with COVID-19 in an accurate and unobtrusive manner](https://arxiv.org/abs/2002.05534) - Description of recurrent neural network predicting 6 respiratory patterns from depth camera data ([Scholia](https://tools.wmflabs.org/scholia/Q87745200))
