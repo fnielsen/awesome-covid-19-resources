@@ -14,7 +14,7 @@ A curated list of awesome data science, analytics and computer programming resou
 ## Visualizations
 
 - [Shiny App](http://shinyapps.org/apps/corona/) - Interactive visualization as shiny app by @nicebread et al
-- [Visual Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)
+- [Visual Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU) described in *[An interactive web-based dashboard to track COVID-19 in real time](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext)*.
 
 ## Papers 
 - [Abnormal respiratory patterns classifier may contribute to large-scale screening of people infected with COVID-19 in an accurate and unobtrusive manner](https://arxiv.org/abs/2002.05534) - Description of recurrent neural network predicting 6 respiratory patterns from depth camera data ([Scholia](https://tools.wmflabs.org/scholia/Q87745200))
