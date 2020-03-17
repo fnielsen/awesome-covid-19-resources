@@ -1,5 +1,5 @@
-## Archives
-- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory) - Memory of coronavirus: Media Coverage, Non-fiction Writings, and Individual Narratives.
+# Awesome COVID-19 resources
+A curated list of awesome data science, analytics and computer programming resources for COVID-19.
 
 ## Datasets 
 - [COVID-19 DATABASE: COVID-19: CASISTICA RADIOLOGICA ITALIANA](https://www.sirm.org/category/senza-categoria/covid-19/) - Italian database with CT images of lungs.
@@ -8,11 +8,11 @@
 - [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) - geographic distribution of COVID-19 cases worldwide
 - [Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 
-# Awesome COVID-19 resources
-A curated list of awesome data science, analytics and computer programming resources for COVID-19.
-
 ### Bioinformatics
 - [SARS-CoV-2 and COVID-19 Pathway (Homo sapiens)](https://www.wikipathways.org/index.php/Pathway:WP4846) - WikiPathways model
+
+## Archives
+- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory) - Memory of coronavirus: Media Coverage, Non-fiction Writings, and Individual Narratives.
 
 ## Tools 
 - [cord-19-tools](https://pypi.org/project/cord-19-tools/) - David Josephs' pip-installable python package to load the *COVID-19 Open Research Dataset (CORD-19)* dataset. A full load take 5 GB of memory.
