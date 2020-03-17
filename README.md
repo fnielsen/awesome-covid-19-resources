@@ -22,6 +22,7 @@ A curated list of awesome data science, analytics and computer programming resou
 - [Shiny App](http://shinyapps.org/apps/corona/) - Interactive visualization as shiny app by @nicebread et al
 - [Visual Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU) described in *[An interactive web-based dashboard to track COVID-19 in real time](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext)*.
 - [Observable Topic: "Coronavirus"](https://observablehq.com/collection/@observablehq/coronavirus) - A selection of interactive Observable notebooks related to COVID-19 and SARS-CoV-2
+- [Spread vs Healthcare Capacity] - Shiny app that lets you set various simulation parameters and observe spreading dynamics as well as healthcare capacity.
 
 ## Papers 
 ### Epidemiological modeling
