@@ -20,7 +20,7 @@ A curated list of awesome data science, analytics and computer programming resou
 ## Visualizations
 
 ### Count visualizations 
-- [Visualization of Covid-19 confirmed cases](http://shinyapps.org/apps/corona/) - Interactive ShinyApp visualization by Felix Schönbrodt (@nicebread) et al. Development from https://github.com/nicebread/corona
+- [Visualization of Covid-19 confirmed cases](http://shinyapps.org/apps/corona/) - Interactive ShinyApp visualization by Felix Schönbrodt (@nicebread) et al. with longitudinal confirmed cumulative cases and deaths. Development from https://github.com/nicebread/corona and data from ECDC and Johns Hopkins University.
 - [COVID-19 case counts](https://covid-stats.theo.io/dashboard_draggable.php) - Interactive visualization by [Theo Sanderson](https://twitter.com/theosanderson) of longitudinal COVID-19 cases by country with interactive date offset. Data from Johns Hopkins University.
 
 ### Visualizations on maps
