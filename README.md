@@ -28,6 +28,7 @@ A curated list of awesome data science, analytics and computer programming resou
 
 ### Epidemiological modeling
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/) - Interactive ShinyApps by Alison Hill with interactive settings of epidemiological parameters and longitudinal visualization.
+- [Effekten af kontakt restriktioner og rejseforbud på COVID-19 udbrud i DK](https://kagr.shinyapps.io/COVID19/) - Interactive ShinyApps in Danish by Kaare Græsbøll and Elisabeth Ottesen Bangsgaard with various interactive epidemiological variables.
 
 ### Collections of visualizations
 - [Observable Topic: "Coronavirus"](https://observablehq.com/collection/@observablehq/coronavirus) - A selection of interactive Observable notebooks related to COVID-19 and SARS-CoV-2
