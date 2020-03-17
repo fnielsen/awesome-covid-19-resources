@@ -19,9 +19,17 @@ A curated list of awesome data science, analytics and computer programming resou
 
 ## Visualizations
 
-- [Visualization of Covid-19 confirmed cases](http://shinyapps.org/apps/corona/) - Interactive visualization as ShinyApp by Felix Schönbrodt (@nicebread) et al. Development from https://github.com/nicebread/corona
-- [COVID-19 case counts](https://covid-stats.theo.io/dashboard_draggable.php) - Interactive visualization of longitudinal COVID-19 cases by country with interactive date offset by [Theo Sanderson](https://twitter.com/theosanderson). Data from Johns Hopkins University.
+### Count visualizations 
+- [Visualization of Covid-19 confirmed cases](http://shinyapps.org/apps/corona/) - Interactive ShinyApp visualization by Felix Schönbrodt (@nicebread) et al. Development from https://github.com/nicebread/corona
+- [COVID-19 case counts](https://covid-stats.theo.io/dashboard_draggable.php) - Interactive visualization by [Theo Sanderson](https://twitter.com/theosanderson) of longitudinal COVID-19 cases by country with interactive date offset. Data from Johns Hopkins University.
+
+### Visualizations on maps
 - [Visual Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU) described in *[An interactive web-based dashboard to track COVID-19 in real time](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext)*.
+
+### Epidemiological modeling
+- [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/) - Interactive ShinyApps by Alison Hill with interactive settings of epidemiological parameters and longitudinal visualization.
+
+### Collections of visualizations
 - [Observable Topic: "Coronavirus"](https://observablehq.com/collection/@observablehq/coronavirus) - A selection of interactive Observable notebooks related to COVID-19 and SARS-CoV-2
 
 ## Papers 
