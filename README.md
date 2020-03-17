@@ -1,6 +1,3 @@
-# Awesome COVID-19 resources
-A curated list of awesome data science, analytics and computer programming resources for COVID-19.
-
 ## Archives
 - [nCovMemory](https://github.com/2019ncovmemory/nCovMemory) - Memory of coronavirus: Media Coverage, Non-fiction Writings, and Individual Narratives.
 
@@ -10,6 +7,9 @@ A curated list of awesome data science, analytics and computer programming resou
 - [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research) - dataset with scholarly articles about COVID-19.
 - [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) - geographic distribution of COVID-19 cases worldwide
 - [Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
+
+# Awesome COVID-19 resources
+A curated list of awesome data science, analytics and computer programming resources for COVID-19.
 
 ### Bioinformatics
 - [SARS-CoV-2 and COVID-19 Pathway (Homo sapiens)](https://www.wikipathways.org/index.php/Pathway:WP4846) - WikiPathways model
