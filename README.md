@@ -1,6 +1,9 @@
 # Awesome COVID-19 resources
 A curated list of awesome data science, analytics and computer programming resources for COVID-19.
 
+## Archives
+- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory) - Memory of coronavirus: Media Coverage, Non-fiction Writings, and Individual Narratives.
+
 ## Datasets 
 - [COVID-19 DATABASE: COVID-19: CASISTICA RADIOLOGICA ITALIANA](https://www.sirm.org/category/senza-categoria/covid-19/) - Italian database with CT images of lungs.
 - [Coronavirus-Dataset: Dataset of COVID-19 in South Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset) - South Korean dataset detailing virus spread routes.
