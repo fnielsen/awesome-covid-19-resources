@@ -5,9 +5,16 @@ A curated list of awesome data science, analytics and computer programming resou
 - [COVID-19 DATABASE: COVID-19: CASISTICA RADIOLOGICA ITALIANA](https://www.sirm.org/category/senza-categoria/covid-19/) - Italian database with CT images of lungs.
 - [Coronavirus-Dataset: Dataset of COVID-19 in South Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset) - South Korean dataset detailing virus spread routes.
 - [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research) - dataset with scholarly articles about COVID-19.
+- [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) - geographic distribution of COVID-19 cases worldwide
+- [Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 
 ### Bioinformatics
 - [SARS-CoV-2 and COVID-19 Pathway (Homo sapiens)](https://www.wikipathways.org/index.php/Pathway:WP4846) - WikiPathways model
+
+## Visualizations
+
+- [Shiny App](http://shinyapps.org/apps/corona/) - Interactive visualization as shiny app by @nicebread et al
+- [Visual Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)
 
 ## Papers 
 - [Abnormal respiratory patterns classifier may contribute to large-scale screening of people infected with COVID-19 in an accurate and unobtrusive manner](https://arxiv.org/abs/2002.05534) - Description of recurrent neural network predicting 6 respiratory patterns from depth camera data ([Scholia](https://tools.wmflabs.org/scholia/Q87745200))
