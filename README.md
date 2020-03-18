@@ -11,8 +11,9 @@ A curated list of awesome data science, analytics and computer programming resou
 ### Bioinformatics
 - [SARS-CoV-2 and COVID-19 Pathway (Homo sapiens)](https://www.wikipathways.org/index.php/Pathway:WP4846) - WikiPathways model
 
-## Archives
+### Archives
 - [nCovMemory](https://github.com/2019ncovmemory/nCovMemory) - Memory of coronavirus: Media Coverage, Non-fiction Writings, and Individual Narratives.
+- [COVID-19-TweetIDs](https://github.com/echen102/COVID-19-TweetIDs) - Twitter posts related to COVID-19. Described in *[COVID-19: The First Public Coronavirus Twitter Dataset](https://arxiv.org/abs/2003.07372)*.
 
 ## Tools 
 - [cord-19-tools](https://pypi.org/project/cord-19-tools/) - David Josephs' pip-installable python package to load the *COVID-19 Open Research Dataset (CORD-19)* dataset. A full load take 5 GB of memory.
