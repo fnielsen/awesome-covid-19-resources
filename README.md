@@ -35,6 +35,9 @@ A curated list of awesome data science, analytics and computer programming resou
 ### Collections of visualizations
 - [Observable Topic: "Coronavirus"](https://observablehq.com/collection/@observablehq/coronavirus) - A selection of interactive Observable notebooks related to COVID-19 and SARS-CoV-2
 
+## Notebooks
+- [Hierarchical Logistic Growth Curves](https://rpubs.com/bgautijonsson/588811) - Brynjólfur Gauti Jónsson's Bayesian modeling of daily COVID-19 counts with output at https://bgautijonsson.shinyapps.io/Hierarchical_Report/.
+
 ## Papers 
 ### Epidemiological modeling
 - [Effective containment explains sub-exponential growth in confirmed cases of recent COVID-19 outbreak in Mainland China](https://arxiv.org/abs/2002.07572) - Model that captures both, quarantine of symptomatic infected individuals as well as population wide isolation in response to mitigation policies or behavioral changes.
