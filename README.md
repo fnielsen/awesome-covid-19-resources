@@ -37,6 +37,7 @@ A curated list of awesome data science, analytics and computer programming resou
 
 ## Notebooks
 - [Hierarchical Logistic Growth Curves](https://rpubs.com/bgautijonsson/588811) - Brynjólfur Gauti Jónsson's Bayesian modeling of daily COVID-19 counts with output at https://bgautijonsson.shinyapps.io/Hierarchical_Report/.
+- [Stochastic epidemic models](https://github.com/MichaelRiis/stochastic_epidemic_models/blob/master/SIR.ipynb) - Michael Riis Andersen. 
 
 ## Papers 
 ### Epidemiological modeling
