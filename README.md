@@ -36,6 +36,7 @@ A curated list of awesome data science, analytics and computer programming resou
 - [Observable Topic: "Coronavirus"](https://observablehq.com/collection/@observablehq/coronavirus) - A selection of interactive Observable notebooks related to COVID-19 and SARS-CoV-2
 
 ## Notebooks
+- [Estimating COVID-19's Rt in Real-Time](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb) - Kevin Systrom's notebook
 - [Hierarchical Logistic Growth Curves](https://rpubs.com/bgautijonsson/588811) - Brynjólfur Gauti Jónsson's Bayesian modeling of daily COVID-19 counts with output at https://bgautijonsson.shinyapps.io/Hierarchical_Report/.
 - [Stochastic epidemic models](https://github.com/MichaelRiis/stochastic_epidemic_models/blob/master/SIR.ipynb) - Michael Riis Andersen. 
 
