@@ -23,7 +23,7 @@ A curated list of awesome data science, analytics and computer programming resou
 ### Count visualizations 
 - [Visualization of Covid-19 confirmed cases](http://shinyapps.org/apps/corona/) - Interactive ShinyApp visualization by Felix Schönbrodt (@nicebread) et al. with longitudinal confirmed cumulative cases and deaths. Development from https://github.com/nicebread/corona and data from ECDC and Johns Hopkins University.
 - [COVID-19 case counts](https://covid-stats.theo.io/dashboard_draggable.php) - Interactive visualization by [Theo Sanderson](https://twitter.com/theosanderson) of longitudinal COVID-19 cases by country with interactive date offset. Data from Johns Hopkins University.
-- [EuroMOMO](https://www.euromomo.eu/outputs/zscore_country_total.html) - European monitoring of excess mortality for public health action weekly mortality as deviations from the baseline.
+- [EuroMOMO](https://www.euromomo.eu/graphs-and-maps) - European monitoring of excess mortality for public health action weekly mortality as deviations from the baseline.
 - [IHME COVID-19 Projections](https://covid19.healthdata.org) - Deaths per day per country and projection as well as hospital beds statistics. From Institute for Health Metrics and Evaluation.
 
 ### Visualizations on maps
